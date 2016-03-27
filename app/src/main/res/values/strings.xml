@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextSenderV1</string>
+    <string name="action_settings">Settings</string>
+    <string name="weekly_miles_driven">Enter a positive integer</string>
+    <string name="button_send">Send</string>
+    <string name="message_destination">joebivens03@gmail.com</string>
+    <string name="message_prefix">This is an automated message sent by an app in development:   </string>
+    <string name="display_prefix">Select your preferred email/messaging application and send.\nDestination: </string>
+    <string name="weekly_miles_driven_desc">Miles Driven (Weekly)</string>
+</resources>
